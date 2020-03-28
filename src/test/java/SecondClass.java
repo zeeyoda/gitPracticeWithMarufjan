@@ -3,5 +3,6 @@ public class SecondClass {
 
         String name = "Ziyoda";
         System.out.println("My name is "+ name);
+
     }
 }
